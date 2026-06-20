@@ -89,6 +89,5 @@ I am committed to giving back to the community through mentorship and education 
 I'm always interested in discussing research, collaborations, or opportunities in computational combustion and numerical methods. Feel free to reach out:
 
 📧 **Email:** [surya.aero23@gmail.com](mailto:surya.aero23@gmail.com)  
-📱 **Phone:** +91 7010150712  
 🔗 **GitHub:** [@surya-aero23](https://github.com/surya-aero23)  
-📝 **Blog:** [My Technical Blog](/)  
+📝 **Blog:** [My Technical Blog](https://surya-aero23.github.io/)  
