@@ -80,22 +80,3 @@ I have now conducted multiple sessions across different schools and continue to 
 As I pursue my PhD in Computational and Data Sciences, this work remains close to my heart. I am grateful to all the teachers, students, and coordinators who have made this possible and continue to make things easy for us to connect with the younger generations of India.
 
 If you are interested in learning more about these sessions, mentorship opportunities, or would like to organize similar events in your community, I would be delighted to hear from you.
-
----
-
-## Image Upload Instructions
-
-To properly display images in this blog post, please save your images in the following directory and use these filenames:
-
-```
-/assets/images/posts/connecting-with-students/
-```
-
-**Image filenames referenced in the post:**
-1. `session-1.jpg` - Opening session or early event (suggested: KGBV Denkanikottai 2017)
-2. `activity-1.jpg` - Student activity/engagement moment (suggested: interactive activity from any session)
-3. `session-2.jpg` - Large group sessions (suggested: Andhra Samithi or Kelamangalam session)
-4. `session-3.jpg` - Recent sessions with volunteers (suggested: October 2021 sessions)
-5. `session-4.jpg` - Interactive moment or student participation (suggested: July 2022 Onnalvadi event)
-
-Simply upload your chosen images from the PDF to this folder with the exact filenames listed above, and they will automatically appear in the correct locations in the blog post.
