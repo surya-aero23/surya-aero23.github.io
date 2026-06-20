@@ -17,32 +17,16 @@ I am a PhD researcher at the [Indian Institute of Science (IISc)](https://www.ii
 
 ## Academic Background
 
-**PhD in Computational and Data Sciences** (2025–Present)  
-Indian Institute of Science, Bangalore, Karnataka
+- **PhD in Computational and Data Sciences** (2025–Present)  
+    Indian Institute of Science, Bangalore, Karnataka
 
-**Master of Technology in Computational and Data Sciences** (2023–2025)  
-Indian Institute of Science, Bangalore, Karnataka  
-*GPA: 8.4/10*
+- **Master of Technology in Computational and Data Sciences** (2023–2025)  
+    Indian Institute of Science, Bangalore, Karnataka  
 
-**Bachelor of Technology in Aerospace Engineering** (2019–2023)  
-Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu  
-*CGPA: 9.5/10*
+- **Bachelor of Technology in Aerospace Engineering** (2019–2023)  
+    Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu  
 
-## Key Skills & Expertise
-
-**Technical Competencies:**
-- **Programming:** Python, C/C++, MATLAB
-- **Scientific Computing:** CFD (Computational Fluid Dynamics), numerical simulations, finite difference & finite volume methods
-- **Tools & Platforms:** Fusion360 (CAD), Jupyter Notebook, VS Code, PyCharm
-- **Specialized Knowledge:** Airfoil design & analysis, wing aerodynamics (Lifting Line Theory, Vortex Lattice Method), conformal mapping, computational geometry
-
-**Domain Expertise:**
-- Aerodynamic design and analysis
-- Computational flow simulation
-- Numerical algorithm development
-- Scientific visualization and software development
-
-## Selected Projects & Work
+## Past and Current Projects
 
 **Analysis of Flow Over Flat Plate Using CFD** (Nov 2022)
 - Developed a Python-based CFD solver using Finite Difference Method (FDM)
@@ -58,19 +42,7 @@ Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu
 - Designed novel camber-line equations using quartic polynomials with enhanced design control
 - Developed conformal mapping-based airfoil generator supporting six transformation families
 - Implemented flow visualization using streamlines and potential line analysis
-
-## Industrial Experience
-
-**Internship - Non-Destructive Testing** (June–July 2022)  
-Hindustan Aeronautics Limited, Bangalore
-- Fabricated laminate composite panels using autoclave processing
-- Conducted non-destructive testing (NDT) to detect and characterize intentional defects
-- Gained exposure to industrial standards and aerospace manufacturing practices
-
-**Workshop:** Mathematics and Computing of Uncertainty Quantification in Model-based Simulation (Dec 2023)  
-Axis Bank Centre for Mathematics and Computing, Bangalore
-- Advanced training in UQ methodologies for aeronautical applications
-- Focus on Bayesian probabilistic approaches to data and model uncertainty
+- 
 
 ## Recognition & Honors
 
