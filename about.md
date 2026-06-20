@@ -26,31 +26,27 @@ I am a PhD researcher at the [Indian Institute of Science (IISc)](https://www.ii
 - **Bachelor of Technology in Aerospace Engineering** (2019–2023)  
     Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu  
 
-## Past and Current Projects
 
-**Analysis of Flow Over Flat Plate Using CFD** (Nov 2022)
-- Developed a Python-based CFD solver using Finite Difference Method (FDM)
-- Validated simulation results against experimental and analytical benchmarks
-- Created an interactive GUI application using Python-Tkinter for accessibility
+## Past Projects
+- **A comprehensive, physics-based surrogate model for the design of scramjet engines** - M.Tech. Dissertation, 2025 - Indian Institute of Science.
+- **Modular flight dynamic modelling of rotary-wing aircrafts** - B.Tech. Dissertation, 2023 - Amrita Vishwa Vidyapeetham.
 
-**Wing Design and Analysis Framework** (Nov 2021)
-- Implemented multiple aerodynamic analysis methods (Lifting Line Theory, Vortex Lattice Method)
-- Developed parametric design tools for wing optimization
-- Integrated airfoil characterization with wing-level analysis
 
-**Airfoil Design Tools** (Oct–Sep 2021)
-- Designed novel camber-line equations using quartic polynomials with enhanced design control
-- Developed conformal mapping-based airfoil generator supporting six transformation families
-- Implemented flow visualization using streamlines and potential line analysis
-- 
+## Current Projects
+- **Towards a low-precision solver for reacting flows** - **Surya Neelakandan**, Aswin Kumar Arumugam, Surya Datta Sudhakar, Konduri Aditya - WiP Poster - International Symposium on Combustion, 2026 (Kyoto, Japan).
+- **Direct numerical simulations of HIFiRE-2 combustor** - **Surya Neelakandan**, Priyabrat Dash, Konduri Aditya - Ongoing.
+- **RANS and LES of HIFiRE-2 combustor** - **Surya Neelakandan**, Shashank Pai, Konduri Aditya - Ongoing.
+- **Effects of thermodynamic non-equilibrium on supersonic jet-in-crossflow** - **Surya Neelakandan**, Om Inamdar, Konduri Aditya - Ongoing.
+ 
 
 ## Recognition & Honors
 
-- **AICTE PG Scholarship:** ₹12,400/month for GATE qualification (2023–Present)
-- **NMMS Scholarship:** Government of India scholarship for meritorious students (2016–2019)
-- **HHH Trust Young Author Award:** Recognized for academic writing and authorship (2019)
-- **JCI Young Achiever Award:** Excellence in education and sports (2019)
-- **CCSI Best Performance Award:** Outstanding contributions to programming education (2018)
+- **Siemens Technology Top-up Fellowship**
+- **MoE PhD Scholarship**
+- **AICTE PG Scholarship**
+- **NMMS Scholarship** 
+- **HHH Trust Young Author Award**
+- **JCI Young Achiever Award**
 
 ## Community & Mentorship
 
@@ -58,8 +54,8 @@ I am committed to giving back to the community through mentorship and education 
 
 ## Get in Touch
 
-I'm always interested in discussing research, collaborations, or opportunities in computational combustion and numerical methods. Feel free to reach out:
+I'm always interested in discussing research, collaborations, opportunities, or just chitchat. Feel free to reach out:
 
-📧 **Email:** [surya.aero23@gmail.com](mailto:surya.aero23@gmail.com)  
-🔗 **GitHub:** [@surya-aero23](https://github.com/surya-aero23)  
-📝 **Blog:** [My Technical Blog](https://surya-aero23.github.io/)  
+- **Email:** [surya.aero23@gmail.com](mailto:surya.aero23@gmail.com)  
+- **GitHub:** [@surya-aero23](https://github.com/surya-aero23)  
+- **Blog:** [My Technical Blog](https://surya-aero23.github.io/)  
