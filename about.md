@@ -5,7 +5,7 @@ title: About
 
 # About Me
 
-I am a PhD researcher at the [Indian Institute of Science (IISc)](https://www.iisc.ac.in/), Bangalore, pursuing doctoral studies in Computational and Data Sciences. My research focuses on developing robust numerical solvers for simulating reacting flows with applications to combustion systems. I am passionate about computational methods that bridge theory, simulation, and practical engineering challenges.
+I am a PhD researcher at the [Indian Institute of Science (IISc)](https://www.iisc.ac.in/), Bangalore, pursuing doctoral studies in Computational and Data Sciences. My research at [FLAME lab](https://flamelab-iisc.github.io/) focuses on developing robust numerical solvers for simulating reacting flows with applications to aerospace combustion systems. I work on developing scalable and fast numerical solvers & turbulent supersonic combustion simulations.
 
 ## Research Interests
 
@@ -35,8 +35,8 @@ I am a PhD researcher at the [Indian Institute of Science (IISc)](https://www.ii
 ## Current Projects
 - **Towards a low-precision solver for reacting flows** - **Surya Neelakandan**, Aswin Kumar Arumugam, Surya Datta Sudhakar, Konduri Aditya - WiP Poster - International Symposium on Combustion, 2026 (Kyoto, Japan).
 - **Direct numerical simulations of HIFiRE-2 combustor** - **Surya Neelakandan**, Priyabrat Dash, Konduri Aditya - Ongoing.
-- **RANS and LES of HIFiRE-2 combustor** - **Surya Neelakandan**, Shashank Pai, Konduri Aditya - Ongoing.
-- **Effects of thermodynamic non-equilibrium on supersonic jet-in-crossflow** - **Surya Neelakandan**, Om Inamdar, Konduri Aditya - Ongoing.
+- **RANS and LES of HIFiRE-2 combustor** - Shashank Pai, **Surya Neelakandan**, Konduri Aditya - Ongoing.
+- **Effects of thermodynamic non-equilibrium on supersonic jet-in-crossflow** - Om Inamdar, **Surya Neelakandan**, Konduri Aditya - Ongoing.
  
 
 ## Recognition & Honors
